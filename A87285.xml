@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The integrity of the Parliaments army justified. By a short, plain, and cordiall answer to the eight quæries lately published to the reproach thereof.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87285</idno><idno type="EEBO-CITATION">99862200</idno>
+  <idno type="VID">114351</idno>
+  <idno type="EEBO-PROQUEST">2248525244</idno>
+  
+            <idno type="STC">Wing I258</idno>
+            <idno type="STC">Thomason E398_24</idno>
+            <idno type="STC">ESTC R201700</idno>
+            <idno type="PROQUEST">99862200</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862200e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114351)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The integrity of the Parliaments army justified. By a short, plain, and cordiall answer to the eight quæries lately published to the reproach thereof.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Symmons,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Prynne, William.  VIII queries upon the late declarations of, and letters from, the army (Wing P3949).</note>
+                  <note>Annotation on Thomason copy: "July 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Prynne, William, 1600-1669. --  VIII queries upon the late declarations of, and letters from, the army --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114351:1"/>
+            <p>THE INTEGRITY OF THE PARLIAMENTS ARMY JUSTIFIED.</p>
+            <p>By a short, plain, and cordiall Answer to the eight <hi>Quaeries</hi> lately published to the Reproach thereof.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Matthew Symmons.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:114351:2"/>
+            <head>The Integrity of the <hi>Parliaments</hi> Ar<g ref="char:EOLhyphen"/>mie justified, by a short, plain, and cordiall Answer to the 8. <hi>Quaeries</hi> lately published <hi>to the Reproach thereof.</hi>
+            </head>
+            <p>TO the first I answer. That as all comparisons are odious, so of all others, this the more abhominable; savouring of no small malice and unheard of ingratitude: to compare a pious Army (by whose indefatigable labours, and miracu<g ref="char:EOLhyphen"/>lous victories this Nation is become so happy) to a Pagan<note n="*" place="margin">Hazael.</note> Prince, through whose cruelty and out rages the Children of Israel were be<g ref="char:EOLhyphen"/>come to miserable. Again, to parallel them with the Anabaptists in <hi>Germany,</hi> who were a wicked Sect of Hereticks, men of private inter<g ref="char:EOLhyphen"/>ests; so unlikely to put in execution a self-denying Ordinance, that they unjustly coveted the estates of other men. Whereas these are well known to be men of publick spirits, who have denyed them<g ref="char:EOLhyphen"/>selves to the death, have subdued the Kingdoms Enemies, yet like the Jews in <hi>Hesthers</hi> time layed not their hands upon the spoil. So that in very truth, the <hi>Quaerist</hi> might as well have said, that because a Reprobate may finally fall from grace; a Saint may do so too.</p>
+            <p>For the second: You may perceive the Gentleman to be of a for<g ref="char:EOLhyphen"/>ward spirit, presuming before he understand the matter, to censure the Actions of this glorious Army; and you know what a wiserman then he saies of one in such a case. For no man will say that he was present at the transacting of that businesss, or knew the impulsive motives inducing that Councell to remove the Person of the King; and yet he assumes the boldnesse to aver, that it was done ground<g ref="char:EOLhyphen"/>lesly, and prooflesly. A second presumption greater then the first, is, that the Army comes up (as he though falsly affirms) against the Par<g ref="char:EOLhyphen"/>liament; a high crime indeed, if made good, no lesse then the highest Treason: but what does he deserve that cannot? that Ile leave to the Army in due time. But let him make it good, and we'le all arme in opposition to this Army; not doubting of successe against them though formerly never so victorious. And now I must needs admire
+<pb n="3" facs="tcp:114351:2"/> his temerity, who in his censure thus out-runs the Constable, for the Parliament saies no such thing, but rather the contrary, by their own avowing this Army to be theirs, and that also since their deferring to disband; and their approach this way: whereby it appears, that some mens pens are like some mens feet, swift to shed blood; for had the Parliament or City given credit to a lye so soon as this man, and some others of his Fathers Children, what mischief might have then ensued; by which you may perceive of what party he is. The like to this made <hi>Saul</hi> destroy the Priests of the Lord, and to persecute holy <hi>David,</hi> nay made <hi>David</hi> (otherwise a man after Gods own heart) to divide the land of <hi>Mephibosheth</hi> between him and lying <hi>Ziba:</hi> and this peradventure might have caused the raising of such an Army, which should it have proved victorious, would have (in all probability) more perplext the Kingdom, then can be imagined: &amp; had this Army an intention to destroy the City, or Parliament, (as malice mutters) they having sufficient power in their hands, and backt with Autho<g ref="char:EOLhyphen"/>rity from Heaven, why would they deferr'd it half so long? why did they give such fair warning to provide, arm, and defend? Theeves use no such fair play, when they intend desired booty.</p>
+            <p>Therfore if to Petition in an humble way about matters of highest concernment to the Kingdoms good; if to approach near the place of negotiation, that affairs may receive speedier dispatch; and if to propound such wholsome things as make most for the publick good for all conditions of men: be a means of confusion, and cause of de<g ref="char:EOLhyphen"/>lay, I have lost my Reason, let all honest men judge.</p>
+            <p>The third <hi>Quaerie</hi> is more grossely absord, holding no parallel with this Armies proceedings; nor King nor Cade had half that power, nor one jot of that cause this bath: and you know opportunity makes the thief: <hi>Cades</hi> Army was without consent, nay against Au<g ref="char:EOLhyphen"/>thority, and was Rebellion indeed, and so censured, as that which would have been destructive to all goodnesse, this diametrically op<g ref="char:EOLhyphen"/>posite: not in a tumultuous mutinous manner as he saucily asserts, but in an humble, meek, and quiet way, no man complaining but Malignants; nor fearing, but such as not innocent.</p>
+            <p>The King, seduced by a Popish, Prelaticall, wicked party, came without a<note n="*" place="margin">The King in Person can ac<g ref="char:EOLhyphen"/>cuse none.</note> Charge, and that into the House it self (an high breach we all confesse) these with a Charge promised to be made good) and waiting at humble distance lest they should offend. So that you see the rashnesse of this giddy youth, as youth most commonly is preci<g ref="char:EOLhyphen"/>pitate;
+<pb n="4" facs="tcp:114351:3"/> but if he be more ancient, why this is the age of dreaming to old men, and so is he, or else in a delicium: but be he young, or old, doubtlesse he is a man of the Law, for I perceive not one jot of Gospel mercy in him to the poore Saints. He looks with a direct eye upon humane Authority, but with a squint eye on that which is divine: who knows not but that the Laws of men may be defective, needing supply from Principles of Right Reason? But he maintains the Law, (because as <hi>Demetrius</hi> said of <hi>Diana's</hi> shrines) that maintains him, but really all good men ought to maintain Truth; Coveteousnesse is the root of all evil: this made the corrupt Scribes say to a new cured Saint, this people that know not the Law are accursed; though had they had but so much Gospel wisdom as he, they had been blessed. This man will not allow this glorious Army, the liberty of <hi>Se defen<g ref="char:EOLhyphen"/>dendo,</hi> which a Virgin has against a lustfull deflowring Prince though her Soveraign; or a single person assaulted by his King: but under pretence of Law, imagines mischief as a Law. If he can find out any means under Heaven for Englands preservation, but this which the Army now does, we'le submit: but if none, then for shame let him be for ever silent: and let all brave English Spirits, that will not be en<g ref="char:EOLhyphen"/>slaved by Arbitrary Power, joyn, to assist the good Party in Parlia<g ref="char:EOLhyphen"/>ment, and this Army, that comes to this very purpose; and follow their steps, who have made many a weary one for you. Otherwise you had been long ago miserable: I beleeve you hear every day the rayling of those <hi>Rabsbekaes,</hi> who dare defy the Army of the living God, fear them not, God will cut them off shortly: be not you failing in your duty to help the Lord against the mighty, each man accor<g ref="char:EOLhyphen"/>ding to his talent to give aid; and, if need be, to be ready to lay down your lives for the Brethren; and bring Incendiaries, &amp;c. to deserved punishment. To this the Covenant obliges the Army, and all honest men, read but the 3. 4. 5. Articles, and see your duties, and remem<g ref="char:EOLhyphen"/>ber how dangerous and base a thing it is to be a Covenant-breaker: and how shall you but break your Covenant with our Brethren of Scotland, if you should permit wicked men to engage them against that good Party, on whose fide at first they fought, and had a share in our Victories against the sons of Belial?</p>
+            <p>As for <hi>Goring, Percy,</hi> and <hi>Germins</hi> bringing up the Northern Army, suits no way with this: That being for the ruine, this for the preser<g ref="char:EOLhyphen"/>vation of Parliaments. But surely if the <hi>Quaerist</hi> be not a <hi>Jermin,</hi> nor a <hi>Goring,</hi> he's very like a <hi>Percy,</hi> an hot-spur, one that would fain bring
+<pb n="5" facs="tcp:114351:3"/> up another Northern Army: or, rather then fail,<note place="margin">If I cannot bend the gods, Ile raise the divels.</note> would do as one lately said in a publick place, <hi>Hectore si nequeo superos Acheronti movebo?</hi> speaking in opposition to this Army.</p>
+            <p>Now for the fourth, the Gentleman is clean beside the cushion, af<g ref="char:EOLhyphen"/>firming (though very scandalously) that the Army refuses to dis<g ref="char:EOLhyphen"/>band, and so are guilty of disobedience. Which I deny: For, 1. who can justly say they ever gave a positive refusall to disband, let that appear either in word or writing. 2. Who will say that the defer<g ref="char:EOLhyphen"/>ring of a thing required, in such a manner, and at such a time, is a denyall; when as the same thing may be done at another season more opportune, and better both for the Commanders, and the com<g ref="char:EOLhyphen"/>manded. Gospel charitie extended to that Son which at first refused, but afterwards did his Fathers will; condemnes this mans unchari<g ref="char:EOLhyphen"/>tablenesse: stay a while, and you shall see cause enough why this brave Army should have as much favour from you, as that servant who, though inferior, refused to put in execution the Stewards com<g ref="char:EOLhyphen"/>mand though his superiour; because he knew it would prove preju<g ref="char:EOLhyphen"/>diciall to his Lords affairs, and then a pious Parliament will not re<g ref="char:EOLhyphen"/>pent, that it hath played the part of a patient <hi>Job,</hi> not to refuse his servant that contended with him. And had our furious men but well observed this heavenly maxime, <hi>I will have mercy, and not sacrifice,</hi> they would not so rashly have condemned the righteous, as some of them have done, with nothing but the mutinie of Rebels and Tray<g ref="char:EOLhyphen"/>tors in their mouthes, to the reproach of this blessed innocent Army, and to the grief of some souls who have heard them; which indeed is one cause why I have thus put pen to paper, a thing which I shall not trouble the world with often: and I think 'twere happie there were lesse writing. But if I should not now upon so necessary an occa<g ref="char:EOLhyphen"/>sion, the stones would.</p>
+            <p>Now for <hi>Irelands</hi> obstruction: indeed I confesse 'tis a matter of high consideration, and let him perish that pities not the Saints in that Nation, and that would not releeve them with more then ordi<g ref="char:EOLhyphen"/>nary contribution: But let the saddle be placed on the right horse, and if any among the Army hinder so pious a work, he is under the doom we spake of before: but I am sure that sin cannot be layed on the Army; you will shortly hear who are the obstructers; which is fit<g ref="char:EOLhyphen"/>ter for an Army to discover than a private Pen. <hi>Irelands</hi> felicitie con<g ref="char:EOLhyphen"/>sists in <hi>Englands</hi> ability; and when <hi>England</hi> shall be fit, we shall do more good in one moneth, then now in twenty: then send the Army
+<pb n="6" facs="tcp:114351:4"/> over with its own Officers, and make a perfect establishment for their subsistance; and 'tis not to be doubted, but those limbs of Antichrist in <hi>Ireland,</hi> and their Adherents in <hi>England</hi> (who have cruelly opprest the Saints) shall be but as toe or stubble before the fire.</p>
+            <p>The fifth is most ridiculous: for who should we trust, but those that have been trusty? And surely, who should a man venture his life withall, but with him that hath saved it once already? And whom should we distrust, but those that from the beginning have acted in the wayes of ruine? onely wanted votes till now of late to play the Kngs Game, though he sate still? He might as well have said, Chil<g ref="char:EOLhyphen"/>dren fear your indulgent parents will destroy you; wives do not con<g ref="char:EOLhyphen"/>fide in your most faithfull husbands, so all relations; and so let the world be turned topsie turvy, as this man would bring all to confu<g ref="char:EOLhyphen"/>sion. Wise men follow the best mens experience; but fools do other<g ref="char:EOLhyphen"/>wise.</p>
+            <p>And whereas he insists so much on Priviledges not to be violated, I am as much as he for their preservation; but yet I must not be so fil<g ref="char:EOLhyphen"/>lily wedded to an old fashion, but that I'le follow a new one which is more commodious, and decent. What man of sound sence can be ignorant, that in cases of necessity, Laws, Prerogatives, Priviledges, mast give place to the Law of Nature,<note n="*" place="margin">The good of the People.</note>
+               <hi>Salus Populi</hi> then rules: <hi>Joab</hi> must be slain at a priviledged place, though sacred. The priviledge of a member is to be in the body; but if defective indangering the rest, <hi>Ense residendum,</hi> Priviledge is not of the essence of life, but an ex<g ref="char:EOLhyphen"/>cressence, which may be waved without prejudice, 'tis an upper gar<g ref="char:EOLhyphen"/>ment to be layed aside upon occasion, so these old forms and cu<g ref="char:EOLhyphen"/>stomes will be lesse in fashion as the world grows wiser. Tis the Pri<g ref="char:EOLhyphen"/>viledge of a Member not to be arrested during the Parliament, that he might not be interrupted in the Service of the Common-wealth. But if the Parliament becomes perpetuall, whereby many Members greatly indebted, paying neither principall, nor interest, but giving opprobrious language, to the wounding the souls of those, without whose help they had lived poorely, may not been at all, this forfeits priviledge, and makes it <hi>null, ipso facto,</hi> and as the Parliament grows better, th s will be amended also.</p>
+            <p>For Law, we know the Law is good, if lawfully used: many times <hi>Summum jus</hi> is <hi>summa injuria;</hi> Extreames are alwayes to be avoided: All Laws have their letter that kils, as well as their spirit that gives life. He that extracts this spirit, leaves the dead letter to the pre<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLhyphen"/>dice
+<pb n="7" facs="tcp:114351:4"/> of him that shall have occasion to use it. The Law commands that every man that sheds blood, by man shall his blood be shed yet the supreame Law-giver permits that Law to be infringed in many cases. Theft in some places is punished by a seven-sold restitution, in others by death; yet as wise a Law-giver as some of us, expects we should not despise a thief that steals for his necessity. I know indeed no limits to that Law, so the ends be right in order to the whole.</p>
+            <p>And now for blustering Prerogative that like a torrent would fain carry all befo e it: Why all men know, or would know, (but that they have mens persons in admiration because of advantage) that the chief flowers thereof are for the benefit of the Subject: as confer<g ref="char:EOLhyphen"/>ring of Honours, Coynage of Money, granting of Pardons, &amp;c. in some cases yet in others the King may not, without forfeit of his own: <hi>Thy life shall go for his,</hi> saies he that can make this good, even up<g ref="char:EOLhyphen"/>on Kings, when he pleaseth; The efore 'tis plain, that when Prero<g ref="char:EOLhyphen"/>gative looseth its end, it forfeits its birth-right.</p>
+            <p>The sixt and seventh Quaeries are not worth the answering, as be<g ref="char:EOLhyphen"/>ing but matter of Recrimination, an old trick of guilty persons, who fearing the justnesse of the own cause, labour to blemish that of the adversaries: but this man is so much the more unworthy in that he abuses his best freinds, without whose valour and fidelity he had been miserable, if he have any honesty in him. An Heathen King shewed more mercy to <hi>Hector</hi> (though against the unalterable Law of <hi>Medes</hi> and <hi>Persians</hi>) then this hath for the Saints of these dayes. The Jew <hi>Gamaliel</hi> had more justice in him, then this, he would not judge before he heard: according to the rule, <hi>Qui statuit aliquid parte inaudita alter, &amp;c.</hi> Who does decree before both parties heard, may make a just sentence, but himself not just. Herein he playes Satans part exactly, and becomes he Accuser of the Brethren: For is it rea<g ref="char:EOLhyphen"/>son the good Angels should be condemn'd for doing good, because the evill are so, for doing bad? for none of the Members then elected had been in Array with the King, nor contributed to his assistance, as some have done who were lately chosen; who since their coming in, have joyned, to undo all that the good had done before, and have endeavoured to carry us back into Aegypt, and to bring us all into a miserab e confusion. And for his <hi>Quaere,</hi> whether the new Recrutes in the Army will expect old Arrears; 'tis probable they will not: and as 'tis charitie so to beleeve; so is it the contrary, to suspect them.</p>
+            <p>The 8. may be answered altogether with the negative, as I have
+<pb n="8" facs="tcp:114351:5"/> made clear in my Answers to his former <hi>Quaeries.</hi> This being by tau<g ref="char:EOLhyphen"/>tology but the result of those, and that upon supposition that his premises are granted, before he hath made them good. And though the successes should prove contrary to our expectation, the Lord do what seemeth him good, his Saints have put their lives into their hands (as they have done often before for this Kingdoms good) and if they perish, they perish; they will not dye like fools; for all the Saints in <hi>England</hi> will dye with them, and though ungratefull men should so ill reward them: they know their reward is with their God in the Heavens.</p>
+            <p>And thus having, as I humbly conceive, given a full Answer to the <hi>Quaeries,</hi> because I see he did expect one: I make bold to addresse my self to the true and wise hearted Commons in <hi>Englands</hi> Parliament assembled, with all humility and earnestnesse of spirit, beseeching them to look about them, as finding by experience that a mans great<g ref="char:EOLhyphen"/>est Enemies are those of his own house; and therefore that they would throughly purge that House, and do one thing more, (without which do what they can) the Kingdom never will have Peace, <hi>viz.</hi> to make inquisition for blood, and washing it from that one doore, where at it hath been layed, to place it rightly on whomsoever it ought; not fearing any forrain Forces, but fearing the God of Justice; who, unlesse Justice be done, will be your greatest Enemie. The God of Peace direct Parliament, City, and Army: which is the Prayer of him that so much honours Law, Prerogative, and Priviledge not abused, that he would be content to sacrifice his life in that just Vin<g ref="char:EOLhyphen"/>dication.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
